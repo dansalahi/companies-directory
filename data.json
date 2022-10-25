@@ -1,0 +1,24 @@
+{
+    "data": [
+      {
+        "id": "1",
+        "name": "Google",
+        "state": "CA",
+        "employees" : 12000
+      },
+  
+      {
+        "id": "2",
+        "name": "Microsoft",
+        "state": "SA",
+        "employees" : 2000
+      },
+      {
+        "id": "3",
+        "name": "Netflix",
+        "state": "MA",
+        "employees" : 300
+      }
+  
+    ]
+}
